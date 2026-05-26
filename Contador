@@ -1,0 +1,7 @@
+let numero = Number(prompt("informe o número"));
+let contador = 0;
+while (contador < numero) {
+    alert(contador)
+    contador = contador  + 1
+}
+alert(contador)
